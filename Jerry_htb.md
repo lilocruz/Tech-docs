@@ -86,6 +86,8 @@ nt authority\system
 
 
 ```
+Nota: El script debe ser modificado en base a nuestras necesidades, poner como clave (s3cret) dentro del arreglo.
+
 Esto nos dará una shell de Windows con altos privilegios "nt authority\system", lo que quiere decir que no tenemos que escalar privilegios.
 
 ```
