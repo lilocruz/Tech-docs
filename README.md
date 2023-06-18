@@ -1,1 +1,1 @@
-# HackTheBox-WriteUps
+# Technical Docs.
