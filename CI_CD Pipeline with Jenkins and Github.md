@@ -105,4 +105,4 @@ Save the configuration. Jenkins will scan your repository and build a job.
 
 Every commit pushed to the repository will now trigger a new build in Jenkins. Jenkins will build a Docker image with the application, run the tests, and if they pass, it will deploy the application.
 
-Michael Sanchez
+## Michael Sanchez
